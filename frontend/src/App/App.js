@@ -258,7 +258,7 @@ class App extends React.Component {
                     {/* Start of Navigation */}
                     <nav class="nav-extended blue">
                         <div class="nav-wrapper">
-                        <a href="#" class="brand-logo">DoZ</a>
+                        <a href="#" class="brand-logo">ToDoZ</a>
                         </div>
                         <div class="nav-content">
                         <ul class="tabs tabs-transparent row">
