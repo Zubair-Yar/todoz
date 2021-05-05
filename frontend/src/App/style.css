@@ -1,0 +1,45 @@
+
+.add {
+
+    /* z-index: 1; */
+    position: fixed;
+    /* margin-left: 80%; */
+    
+    right: 5%;
+    top: 80%;
+
+}
+
+
+.brand-logo {
+    margin-left: 20px;
+}
+
+.select {
+    display: inline;
+    padding: 10px;
+    /* background: yellow; */
+    padding-right: 10%;
+}
+
+.select2 {
+    display: inline;
+    font-weight: bold;
+}
+.background {
+    background: yellow;
+}
+
+i:hover {
+    cursor: pointer;
+}
+
+.background2 {
+    background: tomato;
+}
+
+.description {
+    resize: none;
+    
+
+}
